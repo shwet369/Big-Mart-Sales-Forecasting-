@@ -1,1 +1,1 @@
-# Big-Mart-Sales-Forecasting-
+# Big-Mart-Sales-Prediction
